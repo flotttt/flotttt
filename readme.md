@@ -5,8 +5,8 @@
 
 ### 🧭 Actuellement
 - 🚀 Alternant chez **Aquidom** :
-    - Développement d’un site vitrine
-    - Conception d’un outil interne (plannings, tickets, profils)
+  - Développement d’un site vitrine
+  - Conception d’un outil interne (plannings, tickets, profils)
 - 🔨 Stack : **Next.js, React, Tailwind CSS, Node.js, Express, MariaDB, MongoDB**
 
 ---
@@ -27,15 +27,16 @@
 
 ### 📊 Mes stats GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=flotttt&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flotttt&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
 
 ### 🐍 Contributions
 <p align="center">
-  <img src="https://github.com/tonpseudo/tonpseudo/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/flotttt/flotttt/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake light"/>
+  <img src="https://raw.githubusercontent.com/flotttt/flotttt/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark"/>
 </p>
 
 ---
@@ -51,4 +52,3 @@
 ### 🎯 Objectif
 Mon objectif : **monter en puissance en full-stack**, puis me spécialiser progressivement en **Data & IA** (Mastère 2025–2027).  
 📌 Disponible en **alternance dès octobre 2025** (3 semaines entreprise / 1 semaine école).
-# flotttt

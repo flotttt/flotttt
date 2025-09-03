@@ -2,11 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # 1 fois/jour (UTC)
-  workflow_dispatch:       # lancer manuellement si tu veux
+    - cron: "0 0 * * *"   # 1x/jour (UTC)
+  workflow_dispatch:       # déclenchement manuel
   push:
     branches:
-      - main
+      - main               # adapte si ta branche par défaut est 'master'
 
 permissions:
   contents: write
