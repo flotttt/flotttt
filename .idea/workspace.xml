@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d69f077e-df4b-490d-964d-a00ff9dc1ac8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/snake.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/snake.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756910822612</updated>
-      <workItem from="1756910823675" duration="799000" />
+      <workItem from="1756910823675" duration="4105000" />
     </task>
     <servers />
   </component>
