@@ -66,8 +66,8 @@ En alternance chez **Aquidom** :
 ---
 
 ## 📫 Me contacter
-- ✉️ Email : thubin.florian@gmail.com
-- LinkedIn : [Florian Thubin](https://www.linkedin.com/in/florian-thubin-ba4478233/)
+- ✉️ Email : flo3321o32@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/florian-thubin-ba4478233/) 
 
 
 
